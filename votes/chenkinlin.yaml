@@ -1,0 +1,9 @@
+version: 2
+votes:
+  dev-problem-php:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-11-10T09:24:27.750Z
+deltas: {}
+deliveredSyncIds:
+  - ed81cf55-5eca-461e-b837-066baad4c3b0
