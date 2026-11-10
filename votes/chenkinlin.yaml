@@ -1,22 +1,22 @@
 version: 2
 votes:
   dev-problem-php:
-    recalled_count: 8
+    recalled_count: 9
     upvoted_count: 1
-    last_recalled_at: 2026-11-10T10:30:55.480Z
+    last_recalled_at: 2026-11-10T10:32:19.332Z
     last_upvoted_at: 2026-11-10T10:13:10.980Z
   php-code-review:
-    recalled_count: 4
+    recalled_count: 5
     upvoted_count: 0
-    last_recalled_at: 2026-11-10T10:30:55.480Z
+    last_recalled_at: 2026-11-10T10:32:19.332Z
   session-notes-2026-11-10-nrvddm:
     recalled_count: 1
     upvoted_count: 0
     last_recalled_at: 2026-11-10T10:24:44.511Z
   thinkphp-5-sql-查询安全经验-2026-11-10-7stbvf:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-11-10T10:30:55.480Z
+    last_recalled_at: 2026-11-10T10:32:19.332Z
 deltas: {}
 deliveredSyncIds:
   - ed81cf55-5eca-461e-b837-066baad4c3b0
@@ -27,3 +27,4 @@ deliveredSyncIds:
   - 4edbfd86-ecac-4dfb-af16-76fcc1e5a291
   - 7bda4599-7716-49b7-bd45-134dc3874574
   - 926356a6-3f6c-4ddb-9f8d-9ce86d22073b
+  - 8bd59a67-bfdb-4c8d-b9ba-c53a05e8283b
