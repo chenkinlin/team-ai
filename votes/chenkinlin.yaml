@@ -9,6 +9,10 @@ votes:
     recalled_count: 3
     upvoted_count: 0
     last_recalled_at: 2026-11-10T10:23:16.325Z
+  session-notes-2026-11-10-nrvddm:
+    recalled_count: 1
+    upvoted_count: 0
+    last_recalled_at: 2026-11-10T10:24:44.511Z
 deltas: {}
 deliveredSyncIds:
   - ed81cf55-5eca-461e-b837-066baad4c3b0
@@ -17,3 +21,4 @@ deliveredSyncIds:
   - 2d3ead72-f1ae-4f38-83cd-87763065465e
   - c3bcca38-897a-40a3-85da-9b5072b7894d
   - 4edbfd86-ecac-4dfb-af16-76fcc1e5a291
+  - 7bda4599-7716-49b7-bd45-134dc3874574
