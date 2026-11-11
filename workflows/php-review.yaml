@@ -1,0 +1,16 @@
+schemaVersion: v1alpha1
+name: php-review
+description: 只读审查 PHP 变更(ThinkPHP 5.0.7),输出中文 Markdown 审查报告
+invoke: ask
+inputs: { base: string }
+steps:
+  - id: review
+    workspace: read-only
+    prompt: |
+      使用 php-code-review Skill 审查当前项目相对 {{ inputs.base }} 的 PHP 变更。
+      只允许执行只读的 git 命令(如 git diff {{ inputs.base }}...HEAD -- '*.php')来获取变更。
+      严禁修改任何文件、运行数据库迁移或生产环境命令、推送分支、创建 PR。
+      不要读取或输出 .env 等敏感文件内容。
+      用中文输出 Markdown 报告,包含:审查范围、按严重度排序的发现(文件/行号、证据、建议、是否本次引入)、
+      安全与兼容性风险、已执行的验证、未执行的验证、总体结论。
+      若没有 diff,明确说明并停止。
