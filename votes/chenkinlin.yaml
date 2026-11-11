@@ -18,12 +18,11 @@ votes:
     upvoted_count: 0
     last_recalled_at: 2026-11-10T10:32:19.332Z
   异步导出任务的进度键读写不一致导致进度查不到-2026-11-11-9s6l9q:
-    recalled_count: 1
+    recalled_count: 2
     upvoted_count: 0
-    last_recalled_at: 2026-11-11T02:12:13.994Z
+    last_recalled_at: 2026-11-11T02:18:56.808Z
 deltas: {}
 deliveredSyncIds:
-  - ed81cf55-5eca-461e-b837-066baad4c3b0
   - 776f076e-f87e-4cf9-aac4-72ec37c8d34b
   - 62f5e2db-2475-4742-90e2-67034952100e
   - 2d3ead72-f1ae-4f38-83cd-87763065465e
@@ -33,3 +32,4 @@ deliveredSyncIds:
   - 926356a6-3f6c-4ddb-9f8d-9ce86d22073b
   - 8bd59a67-bfdb-4c8d-b9ba-c53a05e8283b
   - 418b5ed6-60dc-4f85-919b-deac4c93415b
+  - 272e7e9a-0ba6-48a7-9b23-88888e707bcd
