@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "v1alpha1",
+  "run": "r4270284ced99bcb2",
+  "workflow": "php-review",
+  "sourceHash": "7debf23c07538eb0914be8931d77ac0bb31047676654d7f7e64117b3a96ee18e",
+  "phase": "start",
+  "runMode": "attended",
+  "origin": {
+    "source": "team"
+  },
+  "status": "running",
+  "startedAt": "2026-11-11T05:14:54.708Z",
+  "username": "chenkinlin",
+  "publishedAt": "2026-11-11T05:14:54.722Z"
+}
