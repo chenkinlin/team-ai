@@ -3,13 +3,34 @@
   "run": "r4270284ced99bcb2",
   "workflow": "php-review",
   "sourceHash": "7debf23c07538eb0914be8931d77ac0bb31047676654d7f7e64117b3a96ee18e",
-  "phase": "start",
+  "phase": "end",
   "runMode": "attended",
   "origin": {
     "source": "team"
   },
-  "status": "running",
+  "status": "succeeded",
   "startedAt": "2026-11-11T05:14:54.708Z",
   "username": "chenkinlin",
-  "publishedAt": "2026-11-11T05:14:54.722Z"
+  "publishedAt": "2026-11-11T05:15:42.776Z",
+  "driver": {
+    "kind": "skill"
+  },
+  "endedAt": "2026-11-11T05:15:42.773Z",
+  "durationMs": 48065,
+  "steps": [
+    {
+      "step": "review",
+      "pass": 1,
+      "outcome": "success",
+      "runMode": "attended"
+    }
+  ],
+  "stepCounts": {
+    "total": 1,
+    "succeeded": 1,
+    "failed": 0,
+    "skipped": 0,
+    "cancelled": 0
+  },
+  "iterations": 1
 }
